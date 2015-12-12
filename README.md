@@ -1,4 +1,9 @@
 # LinkedList-
 implement Data Structure LinkedList using Java
 
-[![Result](https://github.com/youssefshaaban/Show-Round-Image-from-Webservice/blob/master/Capture.PNG)](#features)
+each box represent node each node there is 
+two something 1- element which wnate you to add 
+2- next refernce of type node to point into another node
+
+[![Result](https://github.com/youssefshaaban/LinkedList-/blob/master/Capture.PNG)](#features)
+
